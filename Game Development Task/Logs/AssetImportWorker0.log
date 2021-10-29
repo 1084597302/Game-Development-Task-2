@@ -492,3 +492,4 @@ Received Import Request.
 Start importing Assets/Scripts/PlayerInteraction.cs using Guid(a8a3c067abfc24847a05d084b82bb373) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '379df0602ceb1f0e41b2e7d2962ab3e5') in 0.002678 seconds 
   Import took 0.004643 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
